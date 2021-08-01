@@ -1,0 +1,16 @@
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  font-family: "Rubik", sans-serif;
+  box-sizing: border-box;
+  --gray-light: #f7f7f7;
+}
+
+body {
+  background: var(--gray-light) !important;
+}
